@@ -1,4 +1,11 @@
 # Pedro Henrique Crispim (Ph/Pedrinho/Ricky)
+
+- 🔭 Estou atualmente no 5º Período.
+- 🌱 Atualmente estou estudando Desenvolvimento WEB.
+- 👯 Procuro conhecer outros devs para que possamos compartilhar nossos conhecimentos!
+- 🥅 2021 Goals: Quero dominar Angular, React e Vue
+- ⚡ Fato engraçado: A primeira linguagem que manipulei foi C, o objetivo era modificar partes do windows e deixar ele mais atrativo. Só fui descobrir que era uma linguagem de programação anos depois, na universidade.
+
 Se conecte comigo e vamos trocar um papo! <br>
 <br>
 <a href="https://www.linkedin.com/in/rycky5">
