@@ -8,7 +8,7 @@
 Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="20" />  <br>
 <br>
 <a href="https://www.linkedin.com/in/rycky5">
-  <img align="left" alt="Pedro Crispim | Linkedin" width="20px" src="https://github.com/rycky5/rycky5/blob/main/assets/linkedin.svg" />
+  <img align="left" alt="Pedro Crispim | Linkedin" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/lost_j3di">
   <img align="left" alt="Pedro Crispim | Twitter" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/twitter.svg" />
@@ -20,10 +20,10 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
   <img align="left" alt="Pedro Crispim | Instagram" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/instagram.svg" />
 </a>
 <a href="https://wa.me/55081998063536">
-  <img align="left" alt="Pedro Crispim | Whatsapp" height="22px" src="https://github.com/rycky5/rycky5/blob/main/assets/WhatsApp.png" />
+  <img align="left" alt="Pedro Crispim | Whatsapp" height="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/WhatsApp.png" />
 </a>
 <a href="https://telegram.me/lost_j3di">
-  <img align="left" alt="Pedro Crispim | Telegram" height="22px" src="https://github.com/rycky5/rycky5/blob/main/assets/Telegram.png" />
+  <img align="left" alt="Pedro Crispim | Telegram" height="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/Telegram.png" />
 </a>
 <br>
 
