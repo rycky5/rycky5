@@ -12,4 +12,4 @@
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rycky5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rycky5&show_icons=true&theme=chartreuse-dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rycky5)](https://github.com/anuraghazra/github-readme-stats)
+> [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rycky5)](https://github.com/anuraghazra/github-readme-stats)
