@@ -1,4 +1,4 @@
-# Pedro Henrique Crispim (Ph/Pedrinho/Ricky) <img src="https://github.com/rycky5/rycky5/blob/main/assets/mario.gif" height="25"/>
+# Pedro Henrique Crispim (Ph/Pedrinho/Ricky) <img src="https://github.com/rycky5/rycky5/blob/main/assets/mario.gif" height="35"/>
 - 🔭 Estou atualmente no 5º Período.
 - 🌱 Atualmente estou estudando Desenvolvimento WEB.
 - 👯 Procuro conhecer outros devs para que possamos compartilhar nossos conhecimentos!
