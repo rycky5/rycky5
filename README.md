@@ -11,7 +11,8 @@
 <a href="https://www.instagram.com/lost_j3di">
   <img align="left" alt="Pedro Crispim | Instagram" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/instagram.svg" />
 </a>
-
+<br>
+<br>
 ## Sobre mim
 
 > * 20
