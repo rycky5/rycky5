@@ -27,7 +27,7 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
 </a>
 <br>
 
-## <img src="https://github.com/rycky5/rycky5/blob/main/assets/mario.gif" height="60" /> Sobre mim 
+## <img src="https://github.com/rycky5/rycky5/blob/main/assets/mario.gif" height="60" margin: "-12px" }  /> Sobre mim 
 
 > * 20
 > * Analista de TI || Dev Fullstack
