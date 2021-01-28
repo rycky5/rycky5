@@ -1,5 +1,6 @@
 # Pedro Henrique Crispim (Ph/Pedrinho/Ricky)
 Se conecte comigo e vamos trocar um papo! <br>
+<br>
 <a href="https://www.linkedin.com/in/rycky5">
   <img align="left" alt="Pedro Crispim | Linkedin" width="20px" src="https://github.com/rycky5/rycky5/blob/main/assets/linkedin.svg" />
 </a>
