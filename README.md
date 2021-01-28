@@ -78,6 +78,9 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
+<img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png">
+</code>](https://angular.io)
+[<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
