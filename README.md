@@ -1,4 +1,12 @@
-### Hi there 👋
+# Pedro Henrique Crispim (Ph/Pedrinho/Ricky)
+## Sobre mim
+
+> * 20
+> * Analista de TI || Dev Fullstack
+> * Recife - PE
+> * Ciência da Computação, Uninassau
+> * Técnico em Suporte de micro e redes
+
 
 ## Status de Desenvolvimento atual:
 
