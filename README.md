@@ -5,7 +5,7 @@
 - 🥅 2021 Goals: Quero dominar Angular, React e Vue
 - ⚡ Fato engraçado: A primeira linguagem que manipulei foi C, o objetivo era modificar partes do windows e deixar ele mais atrativo. Só fui descobrir que era uma linguagem de programação anos depois, na universidade.
 
-Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="40" />  <br>
+Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="18" />  <br>
 <br>
 <a href="https://www.linkedin.com/in/rycky5">
   <img align="left" alt="Pedro Crispim | Linkedin" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/linkedin.svg" />
@@ -27,7 +27,7 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
 </a>
 <br>
 
-## Sobre mim <img src="https://github.com/rycky5/rycky5/blob/main/assets/mario.gif" height="20" />
+## Sobre mim <img src="https://github.com/rycky5/rycky5/blob/main/assets/mario.gif" height="40" />
 
 > * 20
 > * Analista de TI || Dev Fullstack
