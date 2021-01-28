@@ -24,6 +24,7 @@
 
 
 ## Status de Desenvolvimento atual:
+*NOTA: As principais Linguagens abaixo não indicam meu nível de habilidade ou algo parecido, é apenas uma métrica do github de quais linguagens eu tenho mais código em repositórios.
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rycky5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rycky5&show_icons=true&theme=chartreuse-dark)
 
