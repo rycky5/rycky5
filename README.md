@@ -1,15 +1,15 @@
 # Pedro Henrique Crispim (Ph/Pedrinho/Ricky)
 <a href="https://www.linkedin.com/in/rycky5">
-  <img align="left" alt="Pedro Crispim | Linkedin" width="20px" src="https://github.com/rycky5/rycky5/tree/main/assets/linkedin.svg" />
+  <img align="left" alt="Pedro Crispim | Linkedin" width="20px" src="https://github.com/rycky5/rycky5/blob/main/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/lost_j3di">
-  <img align="left" alt="Pedro Crispim | Twitter" width="21px" src="https://github.com/rycky5/rycky5/tree/main/assets/twitter.svg" />
+  <img align="left" alt="Pedro Crispim | Twitter" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/D7DStQ7WTm">
-  <img align="left" alt="Pedro Crispim | Linkedin" width="21px" src="https://github.com/rycky5/rycky5/tree/main/assets/discord-round.svg" />
+  <img align="left" alt="Pedro Crispim | Linkedin" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/discord-round.svg" />
 </a>
 <a href="https://www.instagram.com/lost_j3di">
-  <img align="left" alt="Pedro Crispim | Instagram" width="21px" src="https://github.com/rycky5/rycky5/tree/main/assets/instagram.svg" />
+  <img align="left" alt="Pedro Crispim | Instagram" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/instagram.svg" />
 </a>
 
 ## Sobre mim
