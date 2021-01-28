@@ -41,6 +41,7 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
+[<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 [<code>
@@ -92,7 +93,7 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
 <br />
-[<code>
+
 
 ## Status de Desenvolvimento atual:
 *NOTA: As principais Linguagens abaixo não indicam meu nível de habilidade ou algo parecido, é apenas uma métrica do github de quais linguagens eu tenho mais código em repositórios.*
