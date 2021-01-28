@@ -1,5 +1,13 @@
 # Pedro Henrique Crispim (Ph/Pedrinho/Ricky)
 
+## Sobre mim
+
+> * 20
+> * Analista de TI || Dev Fullstack
+> * Recife - PE
+> * Ciência da Computação, Uninassau
+> * Técnico em Suporte de micro e redes
+
 - 🔭 Estou atualmente no 5º Período.
 - 🌱 Atualmente estou estudando Desenvolvimento WEB.
 - 👯 Procuro conhecer outros devs para que possamos compartilhar nossos conhecimentos!
@@ -21,16 +29,6 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
   <img align="left" alt="Pedro Crispim | Instagram" width="21px" src="https://github.com/rycky5/rycky5/blob/main/assets/instagram.svg" />
 </a>
 <br>
-<br>
-
-## Sobre mim
-
-> * 20
-> * Analista de TI || Dev Fullstack
-> * Recife - PE
-> * Ciência da Computação, Uninassau
-> * Técnico em Suporte de micro e redes
-
 
 ## Status de Desenvolvimento atual:
 *NOTA: As principais Linguagens abaixo não indicam meu nível de habilidade ou algo parecido, é apenas uma métrica do github de quais linguagens eu tenho mais código em repositórios.*
