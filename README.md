@@ -98,6 +98,9 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
 [<code>
 <img alt="Drupal" width="26px" src="https://img.icons8.com/color/240/000000/drupal.png">
 </code>](https://www.drupal.org/)
+[<code>
+<img alt="Symfony" width="26px" src="https://img.icons8.com/color/48/000000/symfony.png">
+</code>](https://symfony.com)
 <br />
 
 
