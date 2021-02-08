@@ -111,3 +111,7 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rycky5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rycky5&show_icons=true&theme=chartreuse-dark)
 
 <img src="https://github.com/rycky5/rycky5/blob/main/assets/mario.gif" height="80"/>
+
+---
+https://visitor-badge.laobi.icu/badge?page_id=rycky5.rycky5
+---
