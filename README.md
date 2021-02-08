@@ -113,6 +113,5 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
 <img src="https://github.com/rycky5/rycky5/blob/main/assets/mario.gif" height="80"/>
 
 ---
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rycky5.rycky5"/>
-[![Gmail Badge](https://img.shields.io/badge/-pedro9937@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro9937@gmail.com)](mailto:pedro9937@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-PedroCrispim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rycky5)](https://www.linkedin.com/in/rycky5)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rycky5.rycky5"/> | [![Gmail Badge](https://img.shields.io/badge/-pedro9937@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro9937@gmail.com)](mailto:pedro9937@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-PedroCrispim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rycky5)](https://www.linkedin.com/in/rycky5)
 
