@@ -113,5 +113,5 @@ Se conecte comigo e vamos trocar um papo! <img src="https://github.com/blackcate
 <img src="https://github.com/rycky5/rycky5/blob/main/assets/mario.gif" height="80"/>
 
 ---
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rycky5.rycky5" height="10"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rycky5.rycky5" height="30"/>
 ---
